@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'https://forms.gle/oy2Wmuu5tGPjqt5r8',
-	'https://forms.gle/W3UmRb6Zm1UjgcYc8'
+	'https://www.spatial.io/s/Room-1-679c550fb405497f2f1b93c1?share=8927061944971499510',
+	'https://www.spatial.io/s/Room-2-679ca320fa1f8fa9581670c7?share=6574539164448796491'
 ];
